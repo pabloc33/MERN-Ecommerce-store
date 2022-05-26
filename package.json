@@ -15,6 +15,7 @@
   "author": "pabloc33",
   "license": "ISC",
   "dependencies": {
+    "@material-ui/core": "^4.12.4",
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.30.0",
     "cookie-parser": "^1.4.6",

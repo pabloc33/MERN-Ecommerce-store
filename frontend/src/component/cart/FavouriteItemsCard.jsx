@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import "./FavouriteItemsCard.css";
-import { useSelector, useDispatch } from "react-redux";
+import { useSelector } from "react-redux";
 import { deleteFavouriteItemsToCart } from "../../actions/FavouriteAction";
 
 const FavouriteItemsCard = ({ item, deleteFavouriteItems }) => {

@@ -5,7 +5,6 @@ import MetaData from "../../more/Metadata";
 import "./About.css";
 import Loading from "../../more/Loading";
 import Footer from "../../Footer";
-//import BottomTab from "../../more/BottomTab";
 
 const About = () => {
   const { loading } = useSelector((state) => state.profile);

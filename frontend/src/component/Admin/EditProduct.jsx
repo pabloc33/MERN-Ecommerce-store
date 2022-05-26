@@ -13,7 +13,6 @@ import DescriptionIcon from "@material-ui/icons/Description";
 import StorageIcon from "@material-ui/icons/Storage";
 import SpellcheckIcon from "@material-ui/icons/Spellcheck";
 import AttachMoneyIcon from "@material-ui/icons/AttachMoney";
-// eslint-disable-next-line
 import DiscountIcon from "@material-ui/icons/LocalOffer";
 import { ToastContainer, toast } from "react-toastify";
 import MetaData from "../../more/Metadata";

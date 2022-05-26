@@ -1,4 +1,3 @@
-// eslint-disable-next-line
 import React, { useRef } from "react";
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";

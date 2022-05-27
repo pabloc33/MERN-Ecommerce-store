@@ -9,7 +9,6 @@ import { Typography } from "@material-ui/core";
 import RemoveShoppingCartIcon from "@material-ui/icons/FavoriteBorder";
 import { Link, useNavigate } from "react-router-dom";
 import Loading from "../../more/Loading";
-//import { useState } from "react";
 import BottomTab from "../../more/BottomTab";
 import MetaData from "../../more/Metadata";
 import FavouriteItemsCard from "./FavouriteItemsCard";
